@@ -4,15 +4,13 @@ compatibility_date = "2025-09-07"
 keep_vars = true
 
 [vars]
-UUID = "b9216be6-f735-4bdf-aedc-c62dd77803be"
-PROXYIP = "di.nscl.ir"
-NAT64 = "2001:67c:2960:6464::/96"
 ADDAPI = "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt"
-ADDCSV = "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressescsv.csv"
-SUBNAME = "0x00"
+NAT64 = "2001:67c:2960:6464::/96"
+PROXYIP = "di.nscl.ir"
 SUB = "Trojan.cmliussss.net"
 SUBAPI = "SUBAPI.cmliussss.net"
-SUBCONFIG = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
+SUBNAME = "0x00"
+UUID = "b9216be6-f735-4bdf-aedc-c62dd77803be"
 
 
 [placement]
