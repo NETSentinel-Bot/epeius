@@ -1,4 +1,20 @@
-name = "t20250907"
+name = "0x00"
 main = "_worker.js"
 compatibility_date = "2025-09-07"
 keep_vars = true
+
+[vars]
+UUID = "b9216be6-f735-4bdf-aedc-c62dd77803be"
+PROXYIP = "di.nscl.ir"
+NAT64 = "2001:67c:2960:6464::/96"
+ADDAPI = "https://raw.githubusercontent.com/NiREvil/vless/refs/heads/main/sub/Cf-ip-bpb.txt"
+SUBNAME = "0x00"
+SUB = "Trojan.cmliussss.net"
+SUBAPI = "SUBAPI.cmliussss.net"
+SUBCONFIG = "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_Mini.ini"
+
+
+[placement]
+region = "gcp:us-west2"
+# region = "aws:eu-west-2" #London
+# region = "azure:japanwest" #japan
