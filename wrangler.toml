@@ -4,12 +4,8 @@ compatibility_date = "2025-09-07"
 keep_vars = true
 
 [vars]
-ADDAPI = "https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt"
 NAT64 = "2001:67c:2960:6464::/96"
 PROXYIP = "di.nscl.ir"
-SUB = "Trojan.cmliussss.net"
-SUBAPI = "SUBAPI.cmliussss.net"
-SUBNAME = "0x00"
 UUID = "b9216be6-f735-4bdf-aedc-c62dd77803be"
 
 
